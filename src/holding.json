@@ -1,0 +1,30 @@
+ [
+  {
+    "id": "AAPL",
+    "name": "Apple Inc.",
+    "holding": "100_000.0",
+    "is_sell_active": true,
+    "is_buy_active": false
+  },
+  {
+    "id": "MSFT",
+    "name": "Microsoft Corporation",
+    "holding": "50_000.0",
+    "is_sell_active": false,
+    "is_buy_active": true
+  },
+  {
+    "id": "GOOGL",
+    "name": "Alphabet Inc.",
+    "holding": "75_000.0",
+    "is_sell_active": true,
+    "is_buy_active": true
+  },
+  {
+    "id": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "holding": 0.0,
+    "is_sell_active": false,
+    "is_buy_active": true
+  }
+]

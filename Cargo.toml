@@ -6,3 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.8.5"  # Brings in 'rand' crate for random number generation
+serde = { version = "1.0", features = ["derive"] } # More complex dependency specification
